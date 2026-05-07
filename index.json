@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-05-07T07:02:23.298Z",
+  "generatedAt": "2026-05-07T09:32:05.844Z",
   "scores": [
+    {
+      "slug": "bossa-nova-groove",
+      "path": "scores/bossa-nova-groove.drumtab",
+      "title": "Bossa Nova Groove",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 2,
+      "style": [
+        "latin",
+        "bossa"
+      ],
+      "techniques": [
+        "cross-stick",
+        "clave"
+      ],
+      "tempo": 132,
+      "meter": "4/4"
+    },
     {
       "slug": "example-funk-groove",
       "path": "scores/example.drumtab",
@@ -21,6 +41,91 @@
         "accent"
       ],
       "tempo": 110,
+      "meter": "4/4"
+    },
+    {
+      "slug": "funk-16th-groove",
+      "path": "scores/funk-16th-groove.drumtab",
+      "title": "Funk 16th-Note Groove",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 2,
+      "style": [
+        "funk"
+      ],
+      "techniques": [
+        "ghost",
+        "syncopation",
+        "on-the-one"
+      ],
+      "tempo": 96,
+      "meter": "4/4"
+    },
+    {
+      "slug": "half-time-shuffle",
+      "path": "scores/half-time-shuffle.drumtab",
+      "title": "Half-Time Shuffle",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 4,
+      "style": [
+        "shuffle",
+        "fusion"
+      ],
+      "techniques": [
+        "ghost",
+        "triplet",
+        "swing",
+        "half-time"
+      ],
+      "tempo": 88,
+      "meter": "4/4"
+    },
+    {
+      "slug": "linear-funk-lick",
+      "path": "scores/linear-funk-lick.drumtab",
+      "title": "Linear Funk Lick",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 3,
+      "style": [
+        "funk",
+        "linear"
+      ],
+      "techniques": [
+        "linear",
+        "ghost",
+        "hand-foot"
+      ],
+      "tempo": 100,
+      "meter": "4/4"
+    },
+    {
+      "slug": "six-stroke-roll-around-kit",
+      "path": "scores/six-stroke-roll-around-kit.drumtab",
+      "title": "Six-Stroke Roll Around the Kit",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 4,
+      "style": [
+        "rudiment",
+        "fill"
+      ],
+      "techniques": [
+        "six-stroke-roll",
+        "rudiment",
+        "sextuplet",
+        "accent"
+      ],
+      "tempo": 100,
       "meter": "4/4"
     }
   ]
