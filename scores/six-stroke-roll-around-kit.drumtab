@@ -1,0 +1,17 @@
+title: Six-Stroke Roll Around the Kit
+composer: Traditional
+transcriber: AI-drafted from public-domain pedagogy; awaiting verification
+tempo: 100
+meter: 4/4
+license: Public Domain
+difficulty: 4
+style: rudiment, fill
+techniques: six-stroke-roll, rudiment, sextuplet, accent
+slug: six-stroke-roll-around-kit
+changelog: v1 PAS rudiment #11 — 'six stroke roll' worked through the kit. Bars 1-3 play the rudiment as a sextuplet on every beat (sticking RLLRRL with accents on the first and last strokes). Bar 4 voices the same sticking across snare and toms for a one-bar fill
+
+[A]
+| sn: >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L  bd: o / - / o / -  hhf: - / o / - / o |
+| sn: >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L  bd: o / - / o / -  hhf: - / o / - / o |
+| sn: >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L / >o/R o/L o/L o/R o/R >o/L  bd: o / - / o / -  hhf: - / o / - / o |
+| t1: >o/R / - / - / -  sn: - / o/L o/L / - / -  t2: - / - / o/R o/R / -  ft: - / - / - / >o/L  bd: o / - / - / -  hhf: - / - / - / - |

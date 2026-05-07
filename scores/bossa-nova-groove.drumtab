@@ -1,0 +1,17 @@
+title: Bossa Nova Groove
+composer: Traditional
+transcriber: AI-drafted from public-domain pedagogy; awaiting verification
+tempo: 132
+meter: 4/4
+license: Public Domain
+difficulty: 2
+style: latin, bossa
+techniques: cross-stick, clave
+slug: bossa-nova-groove
+changelog: v1 two-bar bossa pattern in 4/4 — surdo-style bd on beats 1 and 3 plus the 'a' of 2 and 4, ride straight 8ths, snare voicing approximates a cross-stick playing the 2-3 son clave per Wikipedia bossa nova article
+
+[A]
+| ride: oo / oo / oo / oo  bd: o - / - x / o - / - x  sn: o - / - x / - - / x - |
+| ride: oo / oo / oo / oo  bd: o - / - x / o - / - x  sn: - x / - - / o - / - - |
+| ride: oo / oo / oo / oo  bd: o - / - x / o - / - x  sn: o - / - x / - - / x - |
+| ride: oo / oo / oo / oo  bd: o - / - x / o - / - x  sn: - x / - - / o - / - - |

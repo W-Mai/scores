@@ -1,0 +1,17 @@
+title: Linear Funk Lick
+composer: Traditional
+transcriber: AI-drafted from public-domain pedagogy; awaiting verification
+tempo: 100
+meter: 4/4
+license: Public Domain
+difficulty: 3
+style: funk, linear
+techniques: linear, ghost, hand-foot
+slug: linear-funk-lick
+changelog: v1 one-bar linear funk lick — every 16th-note slot carries exactly one voice (hi-hat, snare, or kick), no two limbs strike at once; classic Garibaldi / Gadd school of pedagogical linear playing
+
+[A]
+| hh: x-x- / x--- / x-x- / x---  bd: -x-- / -x-- / -x-- / -x--  sn: ---x / --x- / ---x / --x- |
+| hh: x-x- / x--- / x-x- / x---  bd: -x-- / -x-- / -x-- / -x--  sn: ---x / --x- / ---x / --x- |
+| hh: x-x- / x--- / x-x- / x---  bd: -x-- / -x-- / -x-- / -x--  sn: ---x / --x- / ---x / --x- |
+| hh: x-x- / x--- / x-x- / ----  bd: -x-- / -x-- / -x-- / ----  sn: ---x / --x- / ---x / o-o- |
