@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-05-07T09:32:05.844Z",
+  "generatedAt": "2026-05-08T12:34:09.518Z",
   "scores": [
+    {
+      "slug": "6-8-rock-ballad",
+      "path": "scores/6-8-rock-ballad.drumtab",
+      "title": "6/8 Rock Ballad",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 2,
+      "style": [
+        "rock",
+        "ballad"
+      ],
+      "techniques": [
+        "compound-meter",
+        "half-time-feel"
+      ],
+      "tempo": 72,
+      "meter": "6/8"
+    },
+    {
+      "slug": "bo-diddley-beat",
+      "path": "scores/bo-diddley-beat.drumtab",
+      "title": "Bo Diddley Beat",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 2,
+      "style": [
+        "rock",
+        "r-and-b"
+      ],
+      "techniques": [
+        "clave",
+        "syncopation",
+        "two-bar-phrase"
+      ],
+      "tempo": 128,
+      "meter": "4/4"
+    },
+    {
+      "slug": "boom-bap-hip-hop",
+      "path": "scores/boom-bap-hip-hop.drumtab",
+      "title": "Boom-Bap Hip-Hop",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 2,
+      "style": [
+        "hip-hop",
+        "boom-bap"
+      ],
+      "techniques": [
+        "backbeat",
+        "syncopation"
+      ],
+      "tempo": 92,
+      "meter": "4/4"
+    },
     {
       "slug": "bossa-nova-groove",
       "path": "scores/bossa-nova-groove.drumtab",
@@ -104,6 +165,47 @@
         "hand-foot"
       ],
       "tempo": 100,
+      "meter": "4/4"
+    },
+    {
+      "slug": "metal-double-kick",
+      "path": "scores/metal-double-kick.drumtab",
+      "title": "Metal Double-Kick 16ths",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 5,
+      "style": [
+        "metal",
+        "thrash"
+      ],
+      "techniques": [
+        "double-kick",
+        "blast",
+        "backbeat"
+      ],
+      "tempo": 160,
+      "meter": "4/4"
+    },
+    {
+      "slug": "reggae-one-drop",
+      "path": "scores/reggae-one-drop.drumtab",
+      "title": "Reggae One Drop",
+      "composer": [
+        "Traditional"
+      ],
+      "license": "Public Domain",
+      "difficulty": 3,
+      "style": [
+        "reggae",
+        "roots"
+      ],
+      "techniques": [
+        "one-drop",
+        "hi-hat-foot"
+      ],
+      "tempo": 76,
       "meter": "4/4"
     },
     {
