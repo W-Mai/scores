@@ -1,0 +1,17 @@
+title: 6/8 Rock Ballad
+composer: Traditional
+transcriber: AI-drafted from public-domain pedagogy; awaiting verification
+tempo: 72
+meter: 6/8
+license: Public Domain
+difficulty: 2
+style: rock, ballad
+techniques: compound-meter, half-time-feel
+slug: 6-8-rock-ballad
+changelog: v1 four-bar 6/8 power-ballad pulse — ride / hi-hat plays every 8th, kick on 1, snare on 4 (the second main pulse of 6/8). Tempo 72 puts the dotted-quarter at ~72 BPM, common ground for 'In the Air Tonight' / 'Nothing Else Matters' territory.
+
+[A]
+| hh: o / o / o / o / o / o  bd: o / - / - / - / - / -  sn: - / - / - / o / - / - |
+| hh: o / o / o / o / o / o  bd: o / - / - / - / - / -  sn: - / - / - / o / - / - |
+| hh: o / o / o / o / o / o  bd: o / - / - / - / - / -  sn: - / - / - / >o / - / - |
+| hh: o / o / o / o / o / o  bd: o / - / - / - / - / -  sn: - / - / - / o / o / o |

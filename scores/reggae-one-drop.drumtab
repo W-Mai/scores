@@ -1,0 +1,17 @@
+title: Reggae One Drop
+composer: Traditional
+transcriber: AI-drafted from public-domain pedagogy; awaiting verification
+tempo: 76
+meter: 4/4
+license: Public Domain
+difficulty: 3
+style: reggae, roots
+techniques: one-drop, hi-hat-foot
+slug: reggae-one-drop
+changelog: v1 four-bar Carlton Barrett-style one drop — kick and snare both land on beat 3, beat 1 is left empty (hence the name). Hi-hat closes on every 16th, foot pedal pulses the off-quarters. Wikipedia 'one drop sixteenth-note drum pattern'.
+
+[A]
+| hh: xxxx / xxxx / xxxx / xxxx  bd: ---- / ---- / o--- / ----  sn: ---- / ---- / o--- / ----  hhf: - / o / - / o |
+| hh: xxxx / xxxx / xxxx / xxxx  bd: ---- / ---- / o--- / ----  sn: ---- / ---- / o--- / ----  hhf: - / o / - / o |
+| hh: xxxx / xxxx / xxxx / xxxx  bd: ---- / ---- / o--- / ----  sn: ---- / ---- / >o-- / ----  hhf: - / o / - / o |
+| hh: xxxx / xxxx / xxxx / xxxx  bd: ---- / ---- / o--- / ----  sn: ---- / ---- / o--- / o-o-  hhf: - / o / - / - |
