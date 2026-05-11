@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T12:34:09.518Z",
+  "generatedAt": "2026-05-11T05:06:27.066Z",
   "scores": [
     {
       "slug": "6-8-rock-ballad",
@@ -20,6 +20,22 @@
       ],
       "tempo": 72,
       "meter": "6/8"
+    },
+    {
+      "slug": "basic-drum-001",
+      "path": "scores/basic-drum-001.drumtab",
+      "title": "动次打次",
+      "license": "CC-BY-4.0",
+      "difficulty": 1,
+      "style": [
+        "rock",
+        "pop"
+      ],
+      "techniques": [
+        "triplet"
+      ],
+      "tempo": 100,
+      "meter": "4/4"
     },
     {
       "slug": "bo-diddley-beat",
