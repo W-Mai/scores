@@ -1,0 +1,17 @@
+title: 动次打次
+tempo: 100
+meter: 4/4
+license: CC-BY-4.0
+difficulty: 1
+style: rock, pop
+techniques: triplet
+slug: basic-drum-001
+
+[A]
+| hh: o / o / o / o  bd: o / - / o / -  sn: - / x / - / x |
+| cr: -- / - / - / -  hh: oo / o , o- / o- , o / oo  bd: o- / - , -o / -o , o / - , --  sn: - / x- / -- / x-  ft: - / - , -- / - / - |
+| hh: oo / oo / oo / oo  bd: o / - / o / -  sn: - / x / - / x |
+| % |
+
+[B fill]
+| hh: o / o / o / oooo  bd: o / - / o / -  sn: - / x / - / x x x |
